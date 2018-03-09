@@ -125,5 +125,5 @@ defaults:
     scope:
       type: "posts"
     values:
-      lang: "cn"
+      lang: "en"
       category: articles
