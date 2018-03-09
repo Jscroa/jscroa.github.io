@@ -43,7 +43,7 @@ author:
   name: "Jscroa"
   short_bio:
     en: this is my short bio
-    cn: 这是我的简介
+    cn: 博主
   picture: /assets/img/profile-60.png
 
 image: /assets/img/profile-225.png
@@ -125,5 +125,5 @@ defaults:
     scope:
       type: "posts"
     values:
-      lang: "en"
+      lang: "cn"
       category: articles
