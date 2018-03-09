@@ -8,7 +8,7 @@ permalink: /progetti.html
 header:
   image: /assets/patterns/new_year_background.png
 ref: projects
-lang: it
+lang: cn
 order: 1
 category: projects
 ---

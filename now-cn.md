@@ -8,7 +8,7 @@ permalink: /adesso.html
 header:
   image: /assets/patterns/symphony.png
 ref: now
-lang: it
+lang: cn
 order: 1
 ---
 
