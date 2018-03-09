@@ -2,7 +2,7 @@
 layout: post
 title: 利用GitHub搭建我的博客
 tagline: "another short description here"
-image: /assets/patterns/paisley.png
+image: /assets/patterns/swirl_pattern.png
 header:
   image: /assets/patterns/asanoha-400px.png
 tags: ["GitHub", "blog", "博客"]
