@@ -42,7 +42,7 @@ header:
 author:
   name: "Jscroa"
   short_bio:
-    cn: 博主
+    zh: 博主
   picture: /assets/img/profile-60.png
 
 image: /assets/img/profile-225.png
@@ -90,7 +90,7 @@ t:
       april: "四月"
       may: "五月"
       june: "六月"
-      july: "契约"
+      july: "七月"
       august: "八月"
       september: "九月"
       october: "十月"
