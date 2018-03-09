@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 利用Nginx来实现ssh隧道转发
-tagline: "another short description here"
+tagline: ""
 image: /assets/patterns/swirl_pattern.png
 header:
   image: /assets/patterns/asanoha-400px.png
@@ -10,17 +10,14 @@ keywords: nginx, ssh
 ref: about-nginx-ssh-proxy
 lang: zh
 ---
+公司服务器没有外网流量，访问服务器都是通过阿里云的负载均衡LSB转发请求，这就导致了无法直接使用ssh远程操作服务器，每次登陆阿里云控制台又太麻烦。那如何利用阿里云的负载均衡转发ssh连接呢？
 
-# 1. 前言
-
-公司服务器没有外网流量，访问服务器都是通过阿里云的负载均衡LSB转发请求，这就导致了无法直接使用ssh远程操作服务器，每次登陆阿里云控制台又太麻烦。
-
-# 2. 基本思路
+## 基本思路
 
 Nginx从1.9.0开始，新增加了一个stream模块，可以用来转发TCP。
 
 
-# 3. 步骤
+## 步骤
 
 假设有服务器A和B，A无法通过外网访问，B可以且安装了Nginx。
 
