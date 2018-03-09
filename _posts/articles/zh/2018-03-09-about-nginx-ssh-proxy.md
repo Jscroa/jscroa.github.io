@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 利用阿里云负载均衡来实现ssh隧道转发
+title: 利用Nginx来实现ssh隧道转发
 tagline: "another short description here"
 image: /assets/patterns/swirl_pattern.png
 header:
   image: /assets/patterns/asanoha-400px.png
-tags: ["nginx", "ssh", "阿里云"]
-keywords: nginx, ssh, 阿里云
+tags: ["nginx", "ssh"]
+keywords: nginx, ssh
 ref: about-nginx-ssh-proxy
 lang: zh
 ---
