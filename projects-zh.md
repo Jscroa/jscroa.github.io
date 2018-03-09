@@ -8,7 +8,7 @@ permalink: /projects.html
 header:
   image: /assets/patterns/new_year_background.png
 ref: projects
-lang: cn
+lang: zh
 order: 1
 category: projects
 ---

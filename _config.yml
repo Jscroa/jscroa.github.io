@@ -74,7 +74,7 @@ github:
 # translation
 
 t:
-  cn:
+  zh:
     latest-posts:  "最新文章"
     read-more:  "更多"
     on-word: "on"
@@ -82,7 +82,7 @@ t:
     contact-page: "contact.md"
     read-time: "分钟 读"
     comments: "评论"
-    go-to-home-page: "Go to the Home Page"
+    go-to-home-page: "回到主页"
     months:
       january: "一月"
       february: "二月"
@@ -102,5 +102,5 @@ defaults:
     scope:
       type: "posts"
     values:
-      lang: "cn"
+      lang: "zh"
       category: articles

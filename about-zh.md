@@ -8,7 +8,7 @@ permalink: /about.html
 header:
   image: /assets/patterns/upfeathers.png
 ref: about
-lang: cn  
+lang: zh  
 order: 2
 ---
 

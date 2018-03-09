@@ -1,20 +1,31 @@
 ---
 layout: post
-title: 利用GitHub搭建我的博客
+title: 利用阿里云负载均衡来实现ssh隧道转发
 tagline: "another short description here"
 image: /assets/patterns/paisley.png
 header:
   image: /assets/patterns/asanoha-400px.png
-tags: ["GitHub", "blog", "博客"]
-keywords: GitHub, blog, 博客
-ref: use-github-to-build-my-blog
-lang: cn
+tags: ["nginx", "ssh", "阿里云"]
+keywords: nginx, ssh, 阿里云
+ref: about-nginx-ssh-proxy
+lang: zh
 ---
 
-利用GitHub搭建我的博客
+利用阿里云负载均衡来实现ssh隧道转发
 dad
 ad
-adaadasd adsasczxczxczx asdasda
+ada
+d
+a
+da
+d
+ad
+a
+d
+as
+asd
+as
+das
 d
 ad
 ad
@@ -26,13 +37,6 @@ ad
 
 ```
 adasdasdasdadadassadsa
-asdad
-ada
-dad
-a
-sd
-a
-das
 ```
 
 > adadasdasdasdas

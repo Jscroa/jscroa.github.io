@@ -24,7 +24,7 @@ excerpt: >
 #   zip_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.zip
 #   tar_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.tar.gz
 ref: home
-lang: cn
+lang: zh
 ---
 
 Simple Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Blog Theme.
