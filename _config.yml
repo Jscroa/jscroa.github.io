@@ -102,10 +102,10 @@ t:
     read-more:  "更多"
     on-word: "on"
     contact: "联系方式"
-    contact-page: "contat.md"
+    contact-page: "contact.md"
     read-time: "分钟 读"
     comments: "评论"
-    go-to-home-page: "回到主页"
+    go-to-home-page: "Go to the Home Page"
     months:
       january: "一月"
       february: "二月"
