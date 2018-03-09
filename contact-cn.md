@@ -8,7 +8,7 @@ permalink: /contact.html
 header:
   image: /assets/patterns/wov.png
 ref: contact
-lang: en  
+lang: cn  
 order: 3
 ---
 
